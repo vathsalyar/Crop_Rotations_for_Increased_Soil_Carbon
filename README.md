@@ -18,10 +18,13 @@ It can be accessed from the University of Michigan Deep Blue Data repository:
    ```bash
    git clone https://github.com/Vathsalyar04/Crop_Rotations_for_Increased_Soil_Carbon.git
 2. Navigate into the folder:
+   ```bash
    cd Crop_Rotations_for_Increased_Soil_Carbon
-3. Install dependencies:
+4. Install dependencies:
+   ```bash
    pip install -r requirements.txt
-4. Launch Jupyter Notebook:
+6. Launch Jupyter Notebook:
+   ```bash
    jupyter notebook CropRotationsforIncreasedSoilCarbon.ipynb
 
 ## Requirements
